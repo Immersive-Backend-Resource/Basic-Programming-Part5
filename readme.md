@@ -1,6 +1,6 @@
-## Cara mengerjakan tugas hari ke 4
+## Cara mengerjakan tugas
 
-clone project ini dengan cara
+clone project ini, melalui
 
 ```
 git clone hhttps://github.com/ALTA-Immersive-BE5/Basic-Programming-Part5.git
@@ -15,9 +15,12 @@ chmod 777 ./execute.sh
 ```
 
 setelah menjalankan perintah diatas, 
-buat repository pada github organization kalian denga format: `Basic-Programming-Part5`
+buat repository pada github organization kalian dengan format: 
+
+`Basic-Programming-Part5`
 
 Tambahkan remote menuju repository yang telah kalian buat. 
+
 `JANGAN MENGGUNAKAN NAMA ORIGIN`
 
 ```
