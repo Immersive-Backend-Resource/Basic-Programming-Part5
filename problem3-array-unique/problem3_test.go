@@ -20,6 +20,6 @@ func TestArrayUnique(t *testing.T) {
 		assert.Equal(t, []int{3}, ArrayUnique([]int{3, 8}, []int{2, 8}), "Output tidak sesuai")
 	})
 	t.Run("Case 5", func(t *testing.T) {
-		assert.Equal(t, []int{1}, ArrayUnique([]int{1, 2, 3}, []int{3, 2, 1}), "Output tidak sesuai")
+		assert.Equal(t, []int{}, ArrayUnique([]int{1, 2, 3}, []int{3, 2, 1}), "Output tidak sesuai")
 	})
 }
